@@ -1,3 +1,3 @@
 Personal Blog Website
 
-https://HP2K.github.io/home.html
+https://hp2k.github.io/home.html
