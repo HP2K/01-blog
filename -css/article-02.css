@@ -1,2 +1,43 @@
 @import "nav-footer.css";
 @import "style.css";
+
+
+.cover-img {
+    display: flex;
+    justify-content: center;
+}
+
+
+@media (min-width: 1024px) {
+.content {
+    display: grid;
+    grid-template-columns: 50vw;
+    justify-content: center;
+}
+
+.sidebar-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 48px;
+    background-color: #F0F0F0;
+    border-radius: 25px;
+    margin-bottom: 96px;
+    margin-top: 48px;
+    }
+
+
+.profile-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width:150px;
+  height:150px;
+  margin-bottom: 16px;
+  object-fit:cover;
+  border-radius:50%;
+
+}
