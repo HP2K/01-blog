@@ -38,7 +38,7 @@
     margin-bottom: 16px;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
 .content {
     display: grid;
     grid-template-columns: 1fr;
@@ -49,8 +49,6 @@
     "thumbs-2";
     margin: 0px 24px 40px 24px;
 }
-
-
 
 @media (min-width: 1024px) {
 .content {
